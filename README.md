@@ -99,26 +99,6 @@ Metrics used:
 
 ---
 
-## 📦 Project Structure
-
-```
-├── data/
-├── notebooks/
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   ├── prediction.py
-├── models/
-│   ├── model.pkl
-│   ├── encoders.pkl
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ▶️ How to Run the Project
 
 ### 1. Clone Repository
